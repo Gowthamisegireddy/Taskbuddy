@@ -27,3 +27,6 @@ Type: Task Management Application
 - Provide an option to restore or delete tasks from the history, giving users control over their task management.
 
 ---
+UI:
+![WhatsApp Image 2024-12-28 at 15 52 04_2807d451](https://github.com/user-attachments/assets/7ac881a9-cb7b-443e-8aaa-13c50fd4fccb)
+
